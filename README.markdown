@@ -5,15 +5,15 @@ title stands for Totally Instant Top Level Evaluator
 It will watch your clojure files and give you a live view of what your file
 evaluates to. Output looks like:
 
-  -- src/title/core.clj --
-  nil
-  java.util.Date
-  #'title.core/last-modified
-  #'title.core/watch
-  #'title.core/start-watching
-  #'title.core/eval-top-level
-  #'title.core/print-results
-  #'title.core/-main
+    -- src/title/core.clj --
+    nil
+    java.util.Date
+    #'title.core/last-modified
+    #'title.core/watch
+    #'title.core/start-watching
+    #'title.core/eval-top-level
+    #'title.core/print-results
+    #'title.core/-main
 
 ## Usage
 
