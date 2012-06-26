@@ -34,6 +34,8 @@ To get it running:
     * prevents polution between runs
 * Split core into two namespaces
 * Add tests?
+* Run as a server and output to html instead of terminal
+* Add syntax highlighting
 
 ## License
 
