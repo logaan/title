@@ -27,6 +27,7 @@
     (map #(eval %) exprs)))
 
 (defn print-results [results path]
+  (println "[H[J")
   (println (str "-- " path " --"))
   (doall (map println results))
   (println))
