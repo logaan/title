@@ -25,6 +25,8 @@ To get it running:
 
 ## Todo
 
+* Kill existing ns
+
 * Migrate to lein plugin
 * Watch all files in src and test
 * Whenever a file is changed
