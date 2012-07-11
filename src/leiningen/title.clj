@@ -1,6 +1,6 @@
 (ns leiningen.title
   (:use title.core))
 
-(defn title [project path & args]
-  (title.core/-main path))
+(defn title [project]
+  (title.core/-main "src"))
 
